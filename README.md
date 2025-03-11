@@ -3,8 +3,8 @@
 <br>
 
 ## Table of Contents
-I. [**Useful Windows Tools**](https://github.com/RomulusMirauta/Useful_Tools/new/main#i-useful-windows-tools)<br>
-II. [**Useful Chrome Extensions**](https://github.com/RomulusMirauta/Useful_Tools/new/main#ii-useful-chrome-extensions)<br><br>
+I. [**Useful Windows Tools**](https://github.com/RomulusMirauta/Useful_Tools?tab=readme-ov-file#i-useful-windows-tools)<br>
+II. [**Useful Chrome Extensions**](https://github.com/RomulusMirauta/Useful_Tools?tab=readme-ov-file#ii-useful-chrome-extensions)<br><br>
 
 ## I. Useful Windows Tools
 
