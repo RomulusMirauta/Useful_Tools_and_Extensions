@@ -3,7 +3,7 @@
 <br>
 
 ## Table of Contents
-I. [**Useful Windows Tools** ***(mainly available for Windows)***](https://github.com/RomulusMirauta/Useful_Tools?tab=readme-ov-file#i-useful-tools-mainly-available-for-windows)<br>
+I. [**Useful Tools** ***(mainly available for Windows)***](https://github.com/RomulusMirauta/Useful_Tools?tab=readme-ov-file#i-useful-tools-mainly-available-for-windows)<br>
 II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Useful_Tools?tab=readme-ov-file#ii-useful-google-chrome-extensions)<br><br><br>
 
 ## I. Useful Tools *(mainly available for Windows)*
