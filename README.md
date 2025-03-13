@@ -3,8 +3,8 @@
 <br>
 
 ## Table of Contents
-I. [**Useful Windows Tools** ***(mainly available for Windows)***](https://github.com/RomulusMirauta/Useful_Tools/blob/main/README.md#i-useful-tools-mainly-available-for-windows)<br>
-II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Useful_Tools/blob/main/README.md#ii-useful-google-chrome-extensions)<br><br><br>
+I. [**Useful Windows Tools** ***(mainly available for Windows)***](https://github.com/RomulusMirauta/Useful_Tools?tab=readme-ov-file#i-useful-tools-mainly-available-for-windows)<br>
+II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Useful_Tools?tab=readme-ov-file#ii-useful-google-chrome-extensions)<br><br><br>
 
 ## I. Useful Tools *(mainly available for Windows)*
 
@@ -29,7 +29,8 @@ II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Usef
    - Batch *(Windows built-in)*
 6. **Virtualization Technologies**
    - Virtual Machines - older technology, requires more resources
-      - Hyper-V *(built-in Windows feature, needs to be activated in BIOS and Windows settings)* https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-overview
+      - Hyper-V *(built-in Windows feature, needs to be activated in BIOS and Windows settings)*
+        <br> https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-overview
       - VMware Workstation *(Free and Paid tiers)* https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
       - VirtualBox *(fully free, open-source software)* https://www.virtualbox.org/wiki/Downloads
    - Containerization - newwer technology, requires less resources, also requires more in-depth knowledge to use
@@ -53,17 +54,31 @@ II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Usef
 
 ## II. Useful Google Chrome Extensions
 
-1. Chrome Remote Desktop <br> https://chromewebstore.google.com/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai
-2. Postman Interceptor <br> https://chromewebstore.google.com/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo
-3. Fake Data - A form filler you won't hate <br> https://chromewebstore.google.com/detail/fake-data-a-form-filler-y/gchcfdihakkhjgfmokemfeembfokkajj
-4. Bug Magnet <br> https://chromewebstore.google.com/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi
-5. Window Resizer <br> https://chromewebstore.google.com/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh
-6. Clear Cache <br> https://chromewebstore.google.com/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn
-7. Selenium IDE ***(deprecated)*** <br> https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd
-8. Find & Replace for Text Editing <br> https://chromewebstore.google.com/detail/find-replace-for-text-edi/mogefjlnnldblkakpbakdaffphhjfjba
-9. Grammarly: AI Writing and Grammar Checker App <br> https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen
-10. I don't care about cookies <br> https://chromewebstore.google.com/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja
-11. Linkclump <br> https://chromewebstore.google.com/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj
-12. Scrollshot: Scrolling Screenshots. Full Page. <br> https://chromewebstore.google.com/detail/scrollshot-scrolling-scre/hpibfnhnogcgalnademehbgcpllmgdil
-13. Text Blaze: Templates and Snippets <br> https://chromewebstore.google.com/detail/text-blaze-templates-and/idgadaccgipmpannjkmfddolnnhmeklj
-14. Steam Inventory Helper <br> https://chromewebstore.google.com/detail/steam-inventory-helper/cmeakgjggjdlcpncigglobpjbkabhmjl
+1. **Chrome Remote Desktop** - Similar to Teamviwer/AnyDesk/RDC (Remote Desktop Connection), but lighter on resources
+   <br> https://chromewebstore.google.com/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai
+2. **Postman Interceptor**
+   <br> https://chromewebstore.google.com/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo
+3. **Fake Data** - Form Filler
+   <br> https://chromewebstore.google.com/detail/fake-data-a-form-filler-y/gchcfdihakkhjgfmokemfeembfokkajj
+4. **Bug Magnet**
+   <br> https://chromewebstore.google.com/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi
+5. **Window Resizer**
+    <br> https://chromewebstore.google.com/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh
+6. **Clear Cache**
+    <br> https://chromewebstore.google.com/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn
+7. **Selenium IDE** - WEB UI Automation Tool ***(deprecated)***
+    <br> https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd
+8. **Find & Replace** - Text Editing Tool, for multiple occurrences at once, also supports RegEx *(Regular Expressions)*
+    <br> https://chromewebstore.google.com/detail/find-replace-for-text-edi/mogefjlnnldblkakpbakdaffphhjfjba
+9. **Grammarly** - AI Writing and Grammar Checker App Tool
+    <br> https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen
+10. **I don't care about cookies** - Gets rid of cookie warnings from *(almost)* all websites
+    <br> https://chromewebstore.google.com/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja
+11. **Linkclump** - Helps you open multiple links at once
+    <br> https://chromewebstore.google.com/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj
+12. **Scrollshot** - Scrolling Screenshots, Full Page
+    <br> https://chromewebstore.google.com/detail/scrollshot-scrolling-scre/hpibfnhnogcgalnademehbgcpllmgdil
+13. **Text Blaze** - Templates and Snippets
+    <br> https://chromewebstore.google.com/detail/text-blaze-templates-and/idgadaccgipmpannjkmfddolnnhmeklj
+14. **Steam Inventory Helper**
+    <br> https://chromewebstore.google.com/detail/steam-inventory-helper/cmeakgjggjdlcpncigglobpjbkabhmjl
