@@ -4,7 +4,7 @@
 
 ## Table of Contents
 I. [**Useful Windows Tools** ***(mainly available for Windows)***](https://github.com/RomulusMirauta/Useful_Tools/blob/main/README.md#i-useful-tools-mainly-available-for-windows)<br>
-II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Useful_Tools/blob/main/README.md#ii-useful-google-chrome-extensions)<br><br>
+II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Useful_Tools/blob/main/README.md#ii-useful-google-chrome-extensions)<br><br><br>
 
 ## I. Useful Tools *(mainly available for Windows)*
 
