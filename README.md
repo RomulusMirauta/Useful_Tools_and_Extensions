@@ -1,4 +1,4 @@
-# **Useful Tools**
+# **Useful Tools and Extensions**
 
 <br>
 
