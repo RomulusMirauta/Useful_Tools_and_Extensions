@@ -42,6 +42,7 @@ II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Usef
       - BlueStacks https://www.bluestacks.com/
       - LDPlayer https://www.ldplayer.net/
 7. **Other Tools**
+   - API Testing - Postman https://www.postman.com/
    - Presentation tool - Prezi https://prezi.com/
    - Collaborative Interface Design Tool - Figma https://www.figma.com/
    - Online Appointment Scheduling Software - Calendly https://calendly.com/
