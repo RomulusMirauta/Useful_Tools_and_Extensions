@@ -9,45 +9,73 @@ II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Usef
 ## I. Useful Tools *(mainly available for Windows)*
 
 1. **AI-Powered Work Assistants**
-   - Copilot https://apps.microsoft.com/detail/9nht9rb2f4hd
-   - ChatGPT https://apps.microsoft.com/detail/9nt1r1c2hh7j
-   - Gemini https://gemini.google.com/app *(has no official Windows App)*
+   - Copilot <br>
+     https://apps.microsoft.com/detail/9nht9rb2f4hd
+   - ChatGPT <br>
+     https://apps.microsoft.com/detail/9nt1r1c2hh7j
+   - Gemini *(has no official Windows App)* <br>
+     https://gemini.google.com/app
 2. **Multi-purpose tools** - photo, video, OCR capabilities, KVM-like features *(KVM = Keyboard, Video, Mouse)*, other features
-   - ShareX - ***Windows only*** tool, extremely useful because of its feature of taking scrollshots *(scrolling screenshots)* just like on a smartphone/MAC *(where this is a built-in feature)* https://getsharex.com/
-   - Microsoft PowerToys https://github.com/microsoft/PowerToys/releases
-   - OBS Studio https://obsproject.com/
+   - ShareX - ***Windows only*** tool, extremely useful because of its feature of taking scrollshots *(scrolling screenshots)* just like on a smartphone/MAC *(where this is a built-in feature)* <br>
+     https://getsharex.com/
+   - Microsoft PowerToys <br>
+     https://github.com/microsoft/PowerToys/releases
+   - OBS Studio <br>
+     https://obsproject.com/
 3. **Text Editors**
-   - Notepad++ https://notepad-plus-plus.org/downloads/
-   - Cursor https://www.cursor.com/
+   - Notepad++ <br>
+     https://notepad-plus-plus.org/downloads/
+   - Cursor <br>
+     https://www.cursor.com/
 4. **Programming - IDEs**
-   - Visual Studio Code https://code.visualstudio.com/ ***(All-purpose)***
-   - PyCharm https://www.jetbrains.com/pycharm/download/?section=windows ***(Python)***
-   - IntelliJ IDEA https://www.jetbrains.com/idea/download/?section=windows ***(Java/Kotlin)***
+   - Visual Studio Code *(General-purpose)* <br>
+     https://code.visualstudio.com/
+   - PyCharm *(Python)* <br>
+     https://www.jetbrains.com/pycharm/download/?section=windows 
+   - IntelliJ IDEA *(Java/Kotlin)* <br>
+     https://www.jetbrains.com/idea/download/?section=windows
 5. **Scripting**
-   - AutoHotkey https://www.autohotkey.com/
-   - PowerShell *(Windows built-in)*
-   - Batch *(Windows built-in)*
+   - AutoHotkey <br>
+     https://www.autohotkey.com/
+   - PowerShell *(Windows built-in)* <br>
+     https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.5
+   - Batch/CMD/Windows Commands *(Windows built-in)* <br>
+     https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
 6. **Virtualization Technologies**
    - Virtual Machines - older technology, requires more resources
-      - Hyper-V *(built-in Windows feature, needs to be activated in BIOS and Windows settings)*
-        <br> https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-overview
-      - VMware Workstation *(Free and Paid tiers)* https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
-      - VirtualBox *(fully free, open-source software)* https://www.virtualbox.org/wiki/Downloads
-   - Containerization - newwer technology, requires less resources, also requires more in-depth knowledge to use
-      - Windows Containers *(built-in Windows feature, needs to be activated in settings)* https://learn.microsoft.com/en-us/virtualization/windowscontainers/
-      - WSA (Windows Subsystem for Android) *(built-in Windows feature, needs to be activated in settings)*
-      - WSL (Windows Subsystem for Linux) *(built-in Windows feature, needs to be activated in settings)*
-      - Docker *(Free and Paid tiers)* https://www.docker.com/
+      - Hyper-V *(built-in Windows feature, needs to be activated in BIOS and Windows settings)* <br>
+        https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-overview
+      - VMware Workstation *(Free and Paid tiers)* <br>
+      https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
+      - VirtualBox *(fully free, open-source software)* <br>
+      https://www.virtualbox.org/wiki/Downloads
+   - Containerization - newer technology, requires fewer resources, also requires more in-depth knowledge to use
+      - Windows Containers *(built-in Windows feature, needs to be activated in settings)* <br>
+        https://learn.microsoft.com/en-us/virtualization/windowscontainers/
+      - WSA (Windows Subsystem for Android) *(built-in Windows feature, needs to be activated in settings)* <br>
+      https://learn.microsoft.com/en-us/windows/android/wsa/
+      - WSL (Windows Subsystem for Linux) *(built-in Windows feature, needs to be activated in settings)* <br>
+      https://learn.microsoft.com/en-us/windows/wsl/
+      - Docker *(Free and Paid tiers)* <br>
+        https://www.docker.com/
    - __*__ Android emulators *(using the Virtual Machine logic)*
-      - BlueStacks https://www.bluestacks.com/
-      - LDPlayer https://www.ldplayer.net/
+      - BlueStacks <br>
+        https://www.bluestacks.com/
+      - LDPlayer <br>
+        https://www.ldplayer.net/
 7. **Other Tools**
-   - API Testing - Postman https://www.postman.com/
-   - Presentation tool - Prezi https://prezi.com/
-   - Collaborative Interface Design Tool - Figma https://www.figma.com/
-   - Online Appointment Scheduling Software - Calendly https://calendly.com/
-   - Document preparation system: LaTeX - Online LaTeX Editor: Overleaf https://www.overleaf.com/
-   - Website that allows you to test the motion clarity of your display devices (monitors, TVs, smartphones, VR headsets) - https://www.testufo.com/
+   - API Testing - **Postman** <br>
+   https://www.postman.com/
+   - Presentation tool - **Prezi** <br>
+     https://prezi.com/
+   - Collaborative Interface Design Tool - **Figma** <br>
+     https://www.figma.com/
+   - Online Appointment Scheduling Software - **Calendly** <br>
+     https://calendly.com/
+   - Document preparation system: LaTeX - Online LaTeX Editor: **Overleaf** <br>
+     https://www.overleaf.com/
+   - Website that allows you to test the motion clarity of your display devices (monitors, TVs, smartphones, VR headsets) <br>
+     https://www.testufo.com/
 
 
 <br><hr><br>
@@ -67,7 +95,7 @@ II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Usef
     <br> https://chromewebstore.google.com/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh
 6. **Clear Cache**
     <br> https://chromewebstore.google.com/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn
-7. **Selenium IDE** - WEB UI Automation Tool ***(deprecated)***
+7. **Selenium IDE** - WEB UI Automation Tool ***(deprecated⚠️)***
     <br> https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd
 8. **Find & Replace** - Text Editing Tool, for multiple occurrences at once, also supports RegEx *(Regular Expressions)*
     <br> https://chromewebstore.google.com/detail/find-replace-for-text-edi/mogefjlnnldblkakpbakdaffphhjfjba
