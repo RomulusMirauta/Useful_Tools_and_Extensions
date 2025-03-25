@@ -111,3 +111,5 @@ II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Usef
     <br> https://chromewebstore.google.com/detail/text-blaze-templates-and/idgadaccgipmpannjkmfddolnnhmeklj
 14. **Steam Inventory Helper**
     <br> https://chromewebstore.google.com/detail/steam-inventory-helper/cmeakgjggjdlcpncigglobpjbkabhmjl
+15. **TestRail Helper** - Auto-filling with "As Expected" in Test Results fields
+    <br> https://chromewebstore.google.com/detail/testrail-helper/bomfcmedmmolncpeaaikehdgcccjllaf
