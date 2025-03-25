@@ -113,3 +113,13 @@ II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Usef
     <br> https://chromewebstore.google.com/detail/steam-inventory-helper/cmeakgjggjdlcpncigglobpjbkabhmjl
 15. **TestRail Helper** - Auto-filling with "As Expected" in Test Results fields
     <br> https://chromewebstore.google.com/detail/testrail-helper/bomfcmedmmolncpeaaikehdgcccjllaf
+16. **Bookmarks clean up**
+    <br> https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl
+17. **Screengrab!** - [GitHub Repo Link](https://github.com/lxqt/screengrab)
+    <br> https://chromewebstore.google.com/detail/screengrab/fccdiabakoglkihagkjmaomipdeegbpk
+18. **Click all checkboxes**
+    <br> https://chromewebstore.google.com/detail/click-all-checkboxes/fhlogpdbadmjfpndmaijnibflgnbnhof
+19. **Open Multiple URLs** - [GitHub Repo Link](https://github.com/htrinter/Open-Multiple-URLs)
+    <br> https://chromewebstore.google.com/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh
+20. **TextGrab**
+    <br> https://chromewebstore.google.com/detail/textgrab/kbdckoabalhppclkadhabohnoihdbnja
