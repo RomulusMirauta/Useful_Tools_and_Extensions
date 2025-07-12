@@ -103,7 +103,7 @@ II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Usef
     https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen
 10. **I don't care about cookies** - Gets rid of cookie warnings from *(almost)* all websites <br>
     https://chromewebstore.google.com/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja
-11. **Linkclump** - Helps you open multiple links at once <br>
+11. **Linkclump** - Helps you open multiple links at once ***(deprecated⚠️)*** <br>
     https://chromewebstore.google.com/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj
 12. **Scrollshot** - Scrolling Screenshots, Full Page <br>
     https://chromewebstore.google.com/detail/scrollshot-scrolling-scre/hpibfnhnogcgalnademehbgcpllmgdil
@@ -123,3 +123,5 @@ II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Usef
     https://chromewebstore.google.com/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh
 20. **TextGrab** <br>
     https://chromewebstore.google.com/detail/textgrab/kbdckoabalhppclkadhabohnoihdbnja
+21. **Linkclump Plus** - Helps you open multiple links at once <br>
+    https://chromewebstore.google.com/detail/linkclump-plus/ainlglbojoodfdbndbfofojhmjbmelmm
