@@ -125,3 +125,7 @@ II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Usef
     https://chromewebstore.google.com/detail/textgrab/kbdckoabalhppclkadhabohnoihdbnja
 21. **Linkclump Plus** - Helps you open multiple links at once <br>
     https://chromewebstore.google.com/detail/linkclump-plus/ainlglbojoodfdbndbfofojhmjbmelmm
+22. **SteamDB** - Steam helper <br>
+    https://chromewebstore.google.com/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon
+23. **Youtube Transcript Generator** - Multiple features. Main: generates transcript and allows it to be copied to clipboard / to be downloaded <br>
+   https://chromewebstore.google.com/detail/youtube-transcript-genera/jbfaglofociijpipgplghecglaklcmfl
