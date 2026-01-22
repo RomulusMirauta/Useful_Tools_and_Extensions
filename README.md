@@ -148,5 +148,11 @@ II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Usef
     https://chromewebstore.google.com/detail/linkclump-plus/ainlglbojoodfdbndbfofojhmjbmelmm
 22. **SteamDB** - Steam helper <br>
     https://chromewebstore.google.com/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon
-23. **Youtube Transcript Generator** - Multiple features. Main: generates transcript and allows it to be copied to clipboard / to be downloaded <br>
+23. **Youtube Transcript Generator** - Multiple features. Main: generates transcript and allows it to be copied to clipboard / to be downloaded ***(deprecated⚠️)*** <br>
     https://chromewebstore.google.com/detail/youtube-transcript-genera/jbfaglofociijpipgplghecglaklcmfl
+24. **Text Blaze: Templates and Snippets** - Inserts text templates anywhere using keyboard shortcuts, eliminates repetitive typing using customizable templates <br>
+    https://chromewebstore.google.com/detail/text-blaze-templates-and/idgadaccgipmpannjkmfddolnnhmeklj
+25. **Cookie Guard** - Helps reveal hidden affiliate cookies and tracking links in real-time, giving you complete transparency about who's monitoring your browsing behavior <br>
+    https://chromewebstore.google.com/detail/cookie-guard/ifjhcahbhkfojdmkndpkmkffbjnefido
+26. **Accessibility Insights for Web** - Helps DEVs and QAs quickly find and fix accessibility issues <br>
+    https://chromewebstore.google.com/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni
