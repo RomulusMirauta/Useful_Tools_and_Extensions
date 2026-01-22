@@ -9,53 +9,69 @@ II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Usef
 ## I. Useful Tools *(mainly available for Windows)*
 
 1. **AI-Powered Work Assistants**
-   - Copilot <br>
+   - GitHub Copilot - coding purposes <br>
+     https://code.visualstudio.com/ <br>
+     https://code.visualstudio.com/docs/copilot/overview
+   - Copilot - general usage <br>
      https://apps.microsoft.com/detail/9nht9rb2f4hd
    - ChatGPT <br>
      https://apps.microsoft.com/detail/9nt1r1c2hh7j
    - Gemini *(has no official Windows App)* <br>
      https://gemini.google.com/app
-2. **Multi-purpose tools** - photo, video, OCR capabilities, KVM-like features *(KVM = Keyboard, Video, Mouse)*, other features
+   - Perplexity <br>
+     https://www.perplexity.ai/ <br>
+     https://apps.microsoft.com/detail/xp8jnqfbqh6pvf
+   - Comet Browser, based on Perplexity <br>
+     https://www.perplexity.ai/comet
+3. **Multi-purpose tools** - photo, video, OCR capabilities, KVM-like features *(KVM = Keyboard, Video, Mouse)*, other features
    - ShareX - ***Windows only*** tool, extremely useful because of its feature of taking scrollshots *(scrolling screenshots)* just like on a smartphone/MAC *(where this is a built-in feature)* <br>
      https://getsharex.com/
-   - Microsoft PowerToys <br>
+   - Microsoft PowerToys - Toolkit which includes 25+ free Windows utilities including FancyZones, PowerToys Run, Color Picker, PowerRename, and more <br>
      https://github.com/microsoft/PowerToys/releases
-   - OBS Studio <br>
+   - OBS Studio - SW for video recording and live streaming - available for Windows, Mac and Linux <br>
      https://obsproject.com/
-3. **Text Editors**
+   - HandBrake - SW for converting video from nearly any format to a selection of modern, widely supported codecs <br>
+     https://handbrake.fr/
+   - ffmpeg - A complete, cross-platform solution to record, convert and stream audio and video <br>
+     https://www.ffmpeg.org/ <br>
+     https://github.com/FFmpeg/FFmpeg
+     
+4. **Text Editors**
    - Notepad++ <br>
      https://notepad-plus-plus.org/downloads/
    - Cursor <br>
      https://www.cursor.com/
-4. **Programming - IDEs**
+5. **Programming - IDEs**
    - Visual Studio Code *(General-purpose)* <br>
      https://code.visualstudio.com/
    - PyCharm *(Python)* <br>
      https://www.jetbrains.com/pycharm/download/?section=windows 
    - IntelliJ IDEA *(Java/Kotlin)* <br>
      https://www.jetbrains.com/idea/download/?section=windows
-5. **Scripting**
+6. **Scripting**
    - AutoHotkey <br>
      https://www.autohotkey.com/
    - PowerShell *(Windows built-in)* <br>
      https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.5
    - Batch/CMD/Windows Commands *(Windows built-in)* <br>
      https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
-6. **Virtualization Technologies**
+7. **Virtualization Technologies**
    - Virtual Machines - older technology, requires more resources
       - Hyper-V *(built-in Windows feature, needs to be activated in BIOS and Windows settings)* <br>
         https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-overview
+      - Windows Sandbox *(built-in Windows feature, requires Hyper-V to be enabled)* <br>
+        https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/
       - VMware Workstation *(Free and Paid tiers)* <br>
-      https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
+        https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
       - VirtualBox *(fully free, open-source software)* <br>
-      https://www.virtualbox.org/wiki/Downloads
+        https://www.virtualbox.org/wiki/Downloads
    - Containerization - newer technology, requires fewer resources, also requires more in-depth knowledge to use
       - Windows Containers *(built-in Windows feature, needs to be activated in settings)* <br>
         https://learn.microsoft.com/en-us/virtualization/windowscontainers/
       - WSA (Windows Subsystem for Android) *(built-in Windows feature, needs to be activated in settings)* <br>
-      https://learn.microsoft.com/en-us/windows/android/wsa/
+        https://learn.microsoft.com/en-us/windows/android/wsa/
       - WSL (Windows Subsystem for Linux) *(built-in Windows feature, needs to be activated in settings)* <br>
-      https://learn.microsoft.com/en-us/windows/wsl/
+        https://learn.microsoft.com/en-us/windows/wsl/
       - Docker *(Free and Paid tiers)* <br>
         https://www.docker.com/
    - __*__ Android emulators *(using the Virtual Machine logic)*
@@ -63,9 +79,9 @@ II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Usef
         https://www.bluestacks.com/
       - LDPlayer <br>
         https://www.ldplayer.net/
-7. **Other Tools**
+8. **Other Tools**
    - API Testing - **Postman** <br>
-   https://www.postman.com/
+     https://www.postman.com/
    - Presentation tool - **Prezi** <br>
      https://prezi.com/
    - Collaborative Interface Design Tool - **Figma** <br>
@@ -76,6 +92,11 @@ II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Usef
      https://www.overleaf.com/
    - Website that allows you to test the motion clarity of your display devices (monitors, TVs, smartphones, VR headsets) <br>
      https://www.testufo.com/
+   - Hex Editor <br>
+     https://mh-nexus.de/en/hxd/
+   - Powerful Search & Replace Tool - Useful even for free-up disk space tasks
+     https://grepwin.com/
+     https://github.com/stefankueng/grepWin/releases
 
 
 <br><hr><br>
@@ -128,4 +149,4 @@ II. [**Useful Google Chrome Extensions**](https://github.com/RomulusMirauta/Usef
 22. **SteamDB** - Steam helper <br>
     https://chromewebstore.google.com/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon
 23. **Youtube Transcript Generator** - Multiple features. Main: generates transcript and allows it to be copied to clipboard / to be downloaded <br>
-   https://chromewebstore.google.com/detail/youtube-transcript-genera/jbfaglofociijpipgplghecglaklcmfl
+    https://chromewebstore.google.com/detail/youtube-transcript-genera/jbfaglofociijpipgplghecglaklcmfl
