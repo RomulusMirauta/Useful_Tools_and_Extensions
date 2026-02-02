@@ -156,3 +156,5 @@ II. [**Useful Google Chrome+ Extensions**](https://github.com/RomulusMirauta/Use
     https://chromewebstore.google.com/detail/cookie-guard/ifjhcahbhkfojdmkndpkmkffbjnefido
 26. **Accessibility Insights for Web** - Helps DEVs and QAs quickly find and fix accessibility issues <br>
     https://chromewebstore.google.com/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni
+27. **Cookie-Editor** - Allows you to quickly create, edit and delete cookies without leaving the browser tab <br>
+   https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm
