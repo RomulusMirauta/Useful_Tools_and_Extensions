@@ -90,13 +90,21 @@ II. [**Useful Google Chrome+ Extensions**](https://github.com/RomulusMirauta/Use
      https://calendly.com/
    - Document preparation system: LaTeX - Online LaTeX Editor: **Overleaf** <br>
      https://www.overleaf.com/
-   - Website that allows you to test the motion clarity of your display devices (monitors, TVs, smartphones, VR headsets) <br>
+   - Website that allows you to test the motion clarity of your display devices (monitors, TVs, smartphones, VR headsets) - **TestUFO** <br>
      https://www.testufo.com/
-   - Hex Editor <br>
+   - Hex Editor - **HxD** <br>
      https://mh-nexus.de/en/hxd/
-   - Powerful Search & Replace Tool - Useful even for free-up disk space tasks
-     https://grepwin.com/
+   - Powerful Search & Replace Tool - Useful even for free-up disk space tasks - **grepWin** <br>
+     https://grepwin.com/ <br>
      https://github.com/stefankueng/grepWin/releases
+   - System information software - **CPU-Z** <br>
+     https://www.cpuid.com/softwares/cpu-z.html
+   - Graphics Card GPU Information Utility - **GPU-Z** (TechPowerUp) <br>
+     https://www.techpowerup.com/gpuz/
+   - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates - **winutil** <br>
+     https://github.com/ChrisTitusTech/winutil
+   - The antispy tool for Windows 10 and 11 - **O&O ShutUp10++** <br>
+     https://www.oo-software.com/en/shutup10
 
 
 <br><hr><br>
