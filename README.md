@@ -23,7 +23,7 @@ II. [**Useful Google Chrome+ Extensions**](https://github.com/RomulusMirauta/Use
      https://apps.microsoft.com/detail/xp8jnqfbqh6pvf
    - Comet Browser, based on Perplexity <br>
      https://www.perplexity.ai/comet
-3. **Multi-purpose tools** - photo, video, OCR capabilities, KVM-like features *(KVM = Keyboard, Video, Mouse)*, other features
+3. **Multi-purpose tools / Suite of tools / Toolkit** - photo, video, OCR capabilities, KVM-like features *(KVM = Keyboard, Video, Mouse)*, other features
    - ShareX - ***Windows only*** tool, extremely useful because of its feature of taking scrollshots *(scrolling screenshots)* just like on a smartphone/MAC *(where this is a built-in feature)* <br>
      https://getsharex.com/
    - Microsoft PowerToys - Toolkit which includes 25+ free Windows utilities including FancyZones, PowerToys Run, Color Picker, PowerRename, and more <br>
@@ -105,6 +105,13 @@ II. [**Useful Google Chrome+ Extensions**](https://github.com/RomulusMirauta/Use
      https://github.com/ChrisTitusTech/winutil
    - The antispy tool for Windows 10 and 11 - **O&O ShutUp10++** <br>
      https://www.oo-software.com/en/shutup10
+   - Advanced monitoring tool that shows real-time file system, Registry and process/thread activity - **Process Monitor** (Sysinternals) <br>
+     https://learn.microsoft.com/en-us/sysinternals/downloads/procmon <br>
+     https://github.com/microsoft/ProcMon-for-Linux
+   - Tool that helps developers find and fix accessibility issues in Windows apps - **Accessibility Insights for Windows**
+     https://accessibilityinsights.io/docs/windows/overview/
+   - Powerful Disassembler, Decompiler & Debugger (it generates assembly language source code from machine-executable code - useful for reverse-engineering) - **IDA Pro**
+     https://hex-rays.com/ida-pro
 
 
 <br><hr><br>
