@@ -115,8 +115,33 @@ II. [**Useful Google Chrome+ Extensions**](https://github.com/RomulusMirauta/Use
    - Program that allows you to find drive space hogs at a glance. It achieves that by displaying a drive, drives or directories in a treemap that assigns bigger areas to bigger files and directories. Making those areas visually separate by coloring and other means allows you to see literally at a glance what the space hogs are and where to dig deeper - **WinDirStat** (Windows Directory Statistics) <br>
      https://windirstat.net/index-selected.html <br>
      https://github.com/windirstat/windirstat
+   - Debugger that offers more modern visuals, faster windows, and a full-fledged scripting experience + it is built with an extensible debugger data model - **WinDbg** <br>
+     https://learn.microsoft.com/en-us/windows-hardware/drivers/debuggercmds/windbg-overview <br>
+     https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br><hr><br>
+
+
+
+
+
+
+
+
+
+
 
 
 ## II. Useful Google Chrome Extensions
