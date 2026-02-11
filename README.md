@@ -112,7 +112,9 @@ II. [**Useful Google Chrome+ Extensions**](https://github.com/RomulusMirauta/Use
      https://accessibilityinsights.io/docs/windows/overview/
    - Powerful Disassembler, Decompiler & Debugger (it generates assembly language source code from machine-executable code - useful for reverse-engineering) - **IDA Pro**
      https://hex-rays.com/ida-pro
-
+   - Program that allows you to find drive space hogs at a glance. It achieves that by displaying a drive, drives or directories in a treemap that assigns bigger areas to bigger files and directories. Making those areas visually separate by coloring and other means allows you to see literally at a glance what the space hogs are and where to dig deeper - **WinDirStat** (Windows Directory Statistics) <br>
+     https://windirstat.net/index-selected.html <br>
+     https://github.com/windirstat/windirstat
 
 <br><hr><br>
 
