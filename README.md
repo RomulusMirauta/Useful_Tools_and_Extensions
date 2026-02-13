@@ -118,6 +118,8 @@ II. [**Useful Google Chrome+ Extensions**](https://github.com/RomulusMirauta/Use
    - Debugger that offers more modern visuals, faster windows, and a full-fledged scripting experience + it is built with an extensible debugger data model - **WinDbg** <br>
      https://learn.microsoft.com/en-us/windows-hardware/drivers/debuggercmds/windbg-overview <br>
      https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/
+   - Tool for Web Application Security, Testing, & Scanning (DAST = Dynamic Application Security Testing, blackbox), web vulnerability scanner, web penetration testing toolkit - **Burp Suite** <br>
+     https://portswigger.net/burp/releases/
 
 
 
