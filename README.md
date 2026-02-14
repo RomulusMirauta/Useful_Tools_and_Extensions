@@ -120,6 +120,14 @@ II. [**Useful Google Chrome+ Extensions**](https://github.com/RomulusMirauta/Use
      https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/
    - Tool for Web Application Security, Testing, & Scanning (DAST = Dynamic Application Security Testing, blackbox), web vulnerability scanner, web penetration testing toolkit - **Burp Suite** <br>
      https://portswigger.net/burp/releases/
+   - Tool that assists in making applications LAA (large address aware). When a 32-bit application is LAA, it can access up to 4 GB on x64 OS (operating systems) + all memory that isn't used by the OS and other applications on x86 - **Large Address Aware** (TechPowerUp) <br>
+     https://www.techpowerup.com/forums/threads/large-address-aware.112556/
+   - Tool used for modifying game profiles inside the internal driver database of the NVIDIA driver. All game profiles are provided by the nvidia driver, but you can add your own profiles for games missing in the driver database. You also have access to hidden and undocumented settings, which are not provided by the drivers control panel - **nvidiaProfileInspector** <br>
+     https://github.com/Orbmu2k/nvidiaProfileInspector
+   - Real-Time CPU Optimization and Automation Software for Windows processes. Think of it as an automated task manager. From tuning algorithms like ProBalance to user-created rules and persistent settings such as CPU affinities and priority classes, it gives you complete control to run processes YOUR way! - **Process Lasso** <br>
+     https://bitsum.com/
+
+
 
 
 
