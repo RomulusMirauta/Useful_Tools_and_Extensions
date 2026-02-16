@@ -130,9 +130,9 @@ II. [**Useful Google Chrome+ Extensions**](https://github.com/RomulusMirauta/Use
      https://www.coderbag.com/programming-c/disable-cpu-core-parking-utility
    - Simple lightweight and customizable hardware monitoring tool that offers real-time, detailed insights into your computer's performance - **HWRadar - Hardware Monitor** (Coderbag) <br>
       https://www.coderbag.com/product/hwradar
-   - Powerful CPU monitoring, performance tuning, and stability testing application designed for both Intel® and AMD® processors. It provides real-time visibility and control over key system parameters such as CPU temperature, power, voltage, frequency, core usage, core parking, performance, voltage, current, and power management features - **Quick CPU**  (Coderbag) <br>
+   - Powerful CPU monitoring, performance tuning, and stability testing application designed for both Intel® and AMD® processors. It provides real-time visibility and control over key system parameters such as CPU temperature, power, voltage, frequency, core usage, core parking, performance, voltage, current, and power management features - **Quick CPU** (Coderbag) <br>
      https://www.coderbag.com/product/quickcpu
-   - Tool for real-time insights of CPU's temperature, utilization, clock speed, power consumption, and other essential parameters of your graphics processor - **CPU Temp - CPU Temperature Monitor for Windows**  (Coderbag) <br>
+   - Tool for real-time insights of CPU's temperature, utilization, clock speed, power consumption, and other essential parameters of your graphics processor - **CPU Temp** (Coderbag) <br>
      https://www.coderbag.com/product/cpu-temp
    - Graphics card overclocking and monitoring utility. Widely used for enhancing the performance of graphics cards, especially in gaming and high-performance tasks - **MSI Afterburner** + **RTSS** (RivaTuner Statistics Server, Guru3D)
       https://www.msi.com/Landing/afterburner/graphics-cards
