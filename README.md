@@ -124,9 +124,18 @@ II. [**Useful Google Chrome+ Extensions**](https://github.com/RomulusMirauta/Use
      https://www.techpowerup.com/forums/threads/large-address-aware.112556/
    - Tool used for modifying game profiles inside the internal driver database of the NVIDIA driver. All game profiles are provided by the nvidia driver, but you can add your own profiles for games missing in the driver database. You also have access to hidden and undocumented settings, which are not provided by the drivers control panel - **nvidiaProfileInspector** <br>
      https://github.com/Orbmu2k/nvidiaProfileInspector
-   - Real-Time CPU Optimization and Automation Software for Windows processes. Think of it as an automated task manager. From tuning algorithms like ProBalance to user-created rules and persistent settings such as CPU affinities and priority classes, it gives you complete control to run processes YOUR way! - **Process Lasso** <br>
+   - Real-Time CPU Optimization and Automation Software for Windows processes. Think of it as an automated task manager. From tuning algorithms like ProBalance to user-created rules and persistent settings such as CPU affinities and priority classes, it gives you complete control to run processes YOUR way! - **Process Lasso** (Bitsum) <br>
      https://bitsum.com/
-
+   - Tool that helps checking for Parked Cores and that allows to Unpark them (*by default*, Windows' CPU Core Parking feature may be inefficient - even for games) - **Disable CPU Core Parking Utility** (Coderbag) <br>
+     https://www.coderbag.com/programming-c/disable-cpu-core-parking-utility
+   - Simple lightweight and customizable hardware monitoring tool that offers real-time, detailed insights into your computer's performance - **HWRadar - Hardware Monitor** (Coderbag) <br>
+      https://www.coderbag.com/product/hwradar
+   - Powerful CPU monitoring, performance tuning, and stability testing application designed for both Intel® and AMD® processors. It provides real-time visibility and control over key system parameters such as CPU temperature, power, voltage, frequency, core usage, core parking, performance, voltage, current, and power management features - **Quick CPU**  (Coderbag) <br>
+     https://www.coderbag.com/product/quickcpu
+   - Tool for real-time insights of CPU's temperature, utilization, clock speed, power consumption, and other essential parameters of your graphics processor - **CPU Temp - CPU Temperature Monitor for Windows**  (Coderbag) <br>
+     https://www.coderbag.com/product/cpu-temp
+   - Graphics card overclocking and monitoring utility. Widely used for enhancing the performance of graphics cards, especially in gaming and high-performance tasks - **MSI Afterburner** + **RTSS** (RivaTuner Statistics Server, Guru3D)
+      https://www.msi.com/Landing/afterburner/graphics-cards
 
 
 
@@ -142,16 +151,6 @@ II. [**Useful Google Chrome+ Extensions**](https://github.com/RomulusMirauta/Use
 
 
 <br><hr><br>
-
-
-
-
-
-
-
-
-
-
 
 
 ## II. Useful Google Chrome Extensions
